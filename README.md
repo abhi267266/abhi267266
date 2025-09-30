@@ -10,7 +10,7 @@
 
 I'm a passionate developer who loves turning ideas into reality through code. I enjoy working on challenging projects and continuously learning new technologies.
 
-- 🔭 Currently working on **[Your Current Project]**
+- 🔭 Currently working on **[space_fabric_sim](https://github.com/abhi267266/space_fabric_sim)**
 - 🌱 Learning **[Technologies you're learning]**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **[Your expertise areas]**
