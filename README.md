@@ -24,6 +24,10 @@ I'm a passionate developer who loves turning ideas into reality through code. I 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=go&logoColor=white)
+
+
 
 ### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -48,11 +52,11 @@ I'm a passionate developer who loves turning ideas into reality through code. I 
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhi267266&show_icons=true&theme=radical&hide_border=true&count_private=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi267266&layout=compact&theme=radical&hide_border=true)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhi267266&theme=radical&hide_border=true)
   
 </div>
 
@@ -60,33 +64,32 @@ I'm a passionate developer who loves turning ideas into reality through code. I 
 
 <div align="center">
   
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=abhi267266&theme=radical&no-frame=true&no-bg=true&margin-w=4)
   
 </div>
 
 ## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhi267266&theme=react-dark&hide_border=true)
 
 ## 🔥 Featured Projects
 
-### [Project Name 1](https://github.com/yourusername/project1)
-Brief description of what this project does and the technologies used.
+### [Coding Agent](https://github.com/abhi267266/coding_agent)
+A simple coding agent that can modify a project based on user prompts. Built to explore the Gemini API and experiment with granting system access to the agent.
 
-### [Project Name 2](https://github.com/yourusername/project2)
-Brief description of what this project does and the technologies used.
+### [Flappy dragon](https://github.com/abhi267266/flappy-dragon)
+A minimal Flappy Bird clone that implements the core game mechanics. Created to practice the fundamentals of the game loop and basic game development.  
 
-### [Project Name 3](https://github.com/yourusername/project3)
-Brief description of what this project does and the technologies used.
+### [Static Site_Genrator](https://github.com/abhi267266/static_site_genrator)
+A lightweight tool that converts Markdown files into static HTML pages. Designed to understand the workflow of static site generation.
 
 ## 🤝 Connect With Me
 
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://yourportfolio.com)
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://abhishek-portfolio-gamma.vercel.app/about)
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhi267266@gmail.com)
   
 </div>
 
@@ -94,7 +97,7 @@ Brief description of what this project does and the technologies used.
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
+  ![Profile Views](https://komarev.com/ghpvc/?username=abhi267266&color=blueviolet&style=flat-square)
   
   **Thanks for visiting! 😊**
   
