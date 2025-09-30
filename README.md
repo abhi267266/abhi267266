@@ -11,11 +11,10 @@
 I'm a passionate developer who loves turning ideas into reality through code. I enjoy working on challenging projects and continuously learning new technologies.
 
 - 🔭 Currently working on **[space_fabric_sim](https://github.com/abhi267266/space_fabric_sim)**
-- 🌱 Learning **[Technologies you're learning]**
+- 🌱 Learning **AI/ML**
 - 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **[Your expertise areas]**
-- 📫 Reach me at **[abhi267266@gmail.com]**
-- ⚡ Fun fact: **[Something interesting about you]**
+- 💬 Ask me about **AI Agent**
+- 📫 Reach me at **abhi267266@gmail.com**
 
 ## 🛠️ Tech Stack
 
@@ -24,8 +23,8 @@ I'm a passionate developer who loves turning ideas into reality through code. I 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-007396?style=flat-square&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-007396?style=flat-square&logo=go&logoColor=white)
 
 
 
