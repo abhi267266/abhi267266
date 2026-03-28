@@ -71,17 +71,6 @@ I'm a passionate developer who loves turning ideas into reality through code. I 
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhi267266&theme=react-dark&hide_border=true)
 
-## 🔥 Featured Projects
-
-### [Coding Agent](https://github.com/abhi267266/coding_agent)
-A simple coding agent that can modify a project based on user prompts. Built to explore the Gemini API and experiment with granting system access to the agent.
-
-### [Flappy dragon](https://github.com/abhi267266/flappy-dragon)
-A minimal Flappy Bird clone that implements the core game mechanics. Created to practice the fundamentals of the game loop and basic game development.  
-
-### [Static Site_Genrator](https://github.com/abhi267266/static_site_genrator)
-A lightweight tool that converts Markdown files into static HTML pages. Designed to understand the workflow of static site generation.
-
 ## 🤝 Connect With Me
 
 <div align="center">
